@@ -2,6 +2,10 @@
 
 # Sadiiq Mohamed
 
+![profile1](assets/img/profile1.jpg)
+
+> This is the Image included in the code
+
 Gurbis206@gmail.com
 
 https://www.linkedin.com/in/sadiiq206/
