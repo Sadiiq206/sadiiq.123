@@ -1,5 +1,5 @@
 # Sadiiq206.github.io
-```markdown
+
 # Sadiiq Mohamed
 
 Gurbis206@gmail.com
@@ -35,4 +35,3 @@ Summary of your role
 
 
 [University 1]: https://www.washington.edu
-```
